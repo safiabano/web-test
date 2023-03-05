@@ -1,0 +1,140 @@
+/* body{
+    background-image: url(assets/images/office-620822_960_720.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+.jop{
+    background-image:url(assets/images/images\ \(2\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+.hop
+{  
+    background-image:url(assets/images/Build-website.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.G{
+    font-size: xx-large;color: azure;
+    font-weight: bold;
+    font-style: italic;
+    font-family: sans-serif;
+    font-variant: normal;
+    line-height: normal;
+}
+
+.w{
+    font-size: xx-large;color: cornsilk;width: 50%;float: right;
+    
+}
+.ione {
+    background-image: none;
+    
+    
+}
+ 
+
+.tone{
+    width: 500px;
+}
+.ttwo
+{
+    width: 500px; 
+}
+/* .div1{
+outline: 1px solid red;width: 260px;float: right;
+} */
+/* .div2{
+    outline: 1px solid blue;width: 300px; float: left;
+}
+.div3{
+    outline: 1px solid green;
+} */
+div{
+    outline: 0px solid green; float: left; height: 200px;
+border-radius: 50px;
+}
+.div1,.div2,.div3{
+    width: 300px;
+   
+}
+.lrm{
+    width:800px ;
+}
+.lrm2{
+    width: 600px;
+}
+
+.sub{
+    font-size: 50px;color:brown; l
+}
+body {
+    font-family: Arial, Verdana, sans-serif;
+    color: white;
+    padding: 0px 400px 50px ;
+    background-color:orange;
+    margin: 80px ;
+}
+/* h1{
+    color: azure;
+    text-align: right;
+    padding: 200px;
+    font-size: 100px;
+    background-color: rgba(0,0,0,0.9);
+    text-decoration: blink;
+} */
+.one{
+    text-decoration: dotted;
+}
+h2{
+    text-decoration: overline;
+    line-height: 1.9em;
+    text-transform: lowercase;
+    letter-spacing: 0.5em;
+    word-spacing: 3em;
+}
+p{
+    text-align: left;
+    intro
+
+    background-image: url(./assets/images/laptop.jpg);
+    height: 100px;
+    text-indent: 80px;
+    color: rgb(91, 15, 222);
+    text-shadow: -1px -1px #666666;
+
+    vertical-align: bottom;
+}
+h1 img{
+background-image: 
+}
+p:first-letter {
+    font-size: 900%;}
+    /* a:link {
+        color: deeppink;
+        text-decoration: none;} */
+        a{
+            color: white;
+            text-decoration: none;
+        }
+            a:hover {
+                color: rgba(236, 12, 34, 0.934);
+                text-decoration: underline;
+                
+        }
+        a:active{
+            color: darkcyan;
+        }
+    
+
+
+
+
+
+
+
+    
+
+
